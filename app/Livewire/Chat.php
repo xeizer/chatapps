@@ -12,6 +12,8 @@ class Chat extends Component
     public $orangDipilih;
     public $isiPesan;
     public $semuaPercakapan;
+    public $ubahdata;
+    public $sistema;
 
     public function pilihMember($idmember)
     {
